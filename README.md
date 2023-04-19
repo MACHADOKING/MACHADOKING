@@ -34,3 +34,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Julio-pic" height="150" style="border-radius:50px;" src="">
 </div>
+<hr>
+<div>
+<a href = "mailto:jsmacbusiness@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/j%C3%BAlio-machado-a6164a1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
