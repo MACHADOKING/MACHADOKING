@@ -39,5 +39,5 @@ Se você busca um Desenvolvedor Full-Stack Júnior apaixonado por criar soluçõ
 <hr>
 <div>
 <a href = "mailto:jsmacbusiness@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/j%C3%BAlio-machado-a6164a1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/julio-machado-machadoking" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
