@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>### 👋 Olá Mundo, eu sou o Júlio Machado!</h1>
+<h3># 👋 Olá Mundo, eu sou o Júlio Machado!</h3>
 
-<p>Sou um desenvolvedor <b>Full-Stack Júnior</b> especializado em <b>React</b> e <b>Node</b>. Atualmente, estou cursando <b>Bacharelado em Engenharia de Software</b> na Universidade Unicesumar e também estou fazendo o curso Fullstack da Danki Code.</p>
+Sou um <b>**Desenvolvedor Full-Stack Júnior**</b> especializado em **React** e **Node**. Atualmente, estou cursando **Bacharelado em Engenharia de Software** na Universidade Unicesumar e também estou aprimorando minhas habilidades por meio de cursos como o Fullstack da Danki Code, Matheus Battisti na Udemy, entre outros.
 
-<p>Eu me considero um programador <b>Full-Stack com mais prática em front-end e uma especialização em React e Node</b>. Focado em desenvolver soluções de software eficientes, tenho experiência em projetos que envolvem o desenvolvimento de aplicações web com foco no usuário e que apresentam alto desempenho e escalabilidade.</p>
+Tenho mais prática em front-end, com foco em desenvolver soluções de software eficientes, trago experiência em projetos que envolvem o desenvolvimento de aplicações web centradas no usuário, priorizando alto desempenho e escalabilidade.
 
-<p>Além disso, mantenho um perfil no GitHub com projetos que desenvolvi durante minha jornada de aprendizado. Meus projetos são principalmente em React e Node, mas também incluem outras tecnologias e ferramentas que estou aprendendo. Confira meu perfil no GitHub para ver exemplos do meu trabalho e do meu conhecimento técnico. 🔍</p>
+Mantenho um perfil no **GitHub** com projetos que criei durante minha jornada de aprendizado. Minhas contribuições incluem principalmente projetos em React e Node, bem como outras tecnologias em constante aprendizado. Dê uma olhada em meu perfil para conferir exemplos de meu trabalho e conhecimento técnico. 🔍
 
-<p>Se você está procurando um desenvolvedor Full-Stack Junior que seja apaixonado por criar soluções eficientes e centradas no usuário, estou disponível para trabalhar em projetos desafiadores e interessantes. Fique à vontade para entrar em contato comigo para saber mais sobre mim e meu trabalho. 📩</p>
+Se você busca um Desenvolvedor Full-Stack Júnior apaixonado por criar soluções eficientes e centradas no usuário, estou disponível para colaborar em projetos desafiadores e interessantes. Fique à vontade para entrar em contato para saber mais sobre mim e meu trabalho. 📩
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
