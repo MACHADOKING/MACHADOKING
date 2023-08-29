@@ -1,20 +1,3 @@
-<!--
-### Hi there 👋
-
-**MACHADOKING/MACHADOKING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Olá Mundo! Sou Júlio Machado (MACHADOKING)
 
 Sou um **Desenvolvedor Full-Stack**, fluente em **Javascript**, especializado em front-end utilizando o **React** com **Next.js**. Atualmente, estou cursando **Bacharelado em Engenharia de Software** na Universidade Unicesumar e também estou aprimorando minhas habilidades por meio de cursos como o Fullstack da Danki Code, Matheus Battisti na Udemy, entre outros.
@@ -49,5 +32,3 @@ Se você busca um Desenvolvedor apaixonado por criar soluções eficientes e cen
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MACHADOKING&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MACHADOKING&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![snake gif](https://github.com/MACHADOKING/MACHADOKING/blob/output/github-contribution-grid-snake.svg)
