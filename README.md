@@ -1,12 +1,57 @@
 # Olá Mundo! Sou Júlio Machado (MACHADOKING)
 
-Sou um **Desenvolvedor Full-Stack**, fluente em **Javascript**, especializado em front-end utilizando o **React** com **Next.js**. Atualmente, estou cursando **Bacharelado em Engenharia de Software** na Universidade Unicesumar e também estou aprimorando minhas habilidades por meio de cursos como o Fullstack da Danki Code, Matheus Battisti na Udemy, entre outros.
+# Sobre Mim
+Sou um Desenvolvedor especializado em Java para Backend com ampla experiência em desenvolvimento JavaScript para Front-End também. Atualmente, estou cursando Bacharelado em Engenharia de Software na Universidade Unicesumar e continuo aprimorando minhas habilidades por meio de cursos profissionalizantes (confira minhas certificações em meu [perfil](https://github.com/MACHADOKING)).
 
-Tenho mais prática em front-end, com foco em desenvolver soluções de software eficientes, trago experiência em projetos que envolvem o desenvolvimento de aplicações web centradas no usuário, priorizando alto desempenho e escalabilidade.
+Minha experiência se concentra principalmente no desenvolvimento de soluções de software eficientes, com foco em aplicações web centradas no usuário. Tenho um histórico sólido de projetos que priorizam alto desempenho e escalabilidade.
 
-Mantenho um perfil no **GitHub** com projetos que criei durante minha jornada de aprendizado. Minhas contribuições incluem principalmente projetos em React e Node, bem como outras tecnologias em constante aprendizado. Dê uma olhada em meu perfil para conferir exemplos de meu trabalho e conhecimento técnico. 🔍
+## Habilidades
 
-Se você busca um Desenvolvedor apaixonado por criar soluções eficientes e centradas no usuário, estou disponível para colaborar em projetos desafiadores e interessantes. Fique à vontade para entrar em contato para saber mais sobre mim e meu trabalho. 📩
+### Java:
+- Desenvolvimento de APIs RESTful em Java
+- Manipulação de bancos de dados SQL e noSQL
+- Implementação de segurança de dados
+- Integração com sistemas e serviços externos
+- Collections e StreamAPI
+- Programação Orientada a Objetos (POO)
+- Padrões de Projetos (Design Patterns)
+- Clean Architecture / Clean Code (Boas Práticas)
+- Maven e Gradle (Ferramentas de Build)
+- Spring Framework e seus módulos, como Web e Security
+- Diagramação de Classes com UML
+- Testes unitários com JUnit
+
+### JavaScript:
+- Programação Orientada a Objetos (POO)
+- Estruturas de condição, repetição e funções
+- Node.js (Express/Sequelize/Handlebars/Body Parser)
+- React (React Router, Context API, Redux, Next)
+- Desenvolvimento de aplicações MERN (MongoDB, Express, React e Node)
+- Expressões regulares com JavaScript
+- Desenvolvimento de interfaces de usuário responsivas com React
+- Gerenciamento de estado com Redux
+- Integração de APIs REST com Axios
+- Desenvolvimento de componentes reutilizáveis
+- TypeScript
+
+### Soft-Skills:
+- Comunicação
+- Trabalho em Equipe
+- Pensamento Crítico
+- Adaptabilidade
+- Empatia
+- Autoconfiança
+- Resiliência
+- Criatividade
+- Autoconhecimento
+- Motivação
+
+## Projetos no GitHub
+Mantenho um perfil no GitHub com projetos que criei durante minha jornada de aprendizado. Minhas contribuições incluem principalmente projetos em Java para Backend e React para Front-End, bem como outras tecnologias em constante aprendizado. Dê uma olhada em meu [perfil](https://github.com/MACHADOKING) para conferir exemplos do meu trabalho e conhecimento técnico.
+
+## Contato
+Se você procura um Desenvolvedor com expertise em Java para Backend e/ou JavaScript, apaixonado por criar soluções eficientes e centradas no usuário, estou disponível para colaborar em projetos desafiadores e interessantes. Fique à vontade para entrar em contato para saber mais sobre mim e meu trabalho. 📩
+
 
 ## Habilidades
 
