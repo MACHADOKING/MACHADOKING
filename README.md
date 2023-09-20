@@ -1,6 +1,6 @@
 # Olá Mundo! Sou Júlio Machado (MACHADOKING)
 
-Sou um Desenvolvedor especializado em Java para Backend com ampla experiência em desenvolvimento JavaScript para Front-End também. Atualmente, estou cursando Bacharelado em Engenharia de Software na Universidade Unicesumar e continuo aprimorando minhas habilidades por meio de cursos profissionalizantes (confira minhas certificações em meu [perfil](https://github.com/MACHADOKING)).
+Sou um Desenvolvedor especializado em Java para Backend com ampla experiência em desenvolvimento JavaScript para Front-End também. Atualmente, estou cursando Bacharelado em Engenharia de Software na Universidade Unicesumar e continuo aprimorando minhas habilidades por meio de cursos profissionalizantes (confira minhas certificações em meu [linkedin](https://www.linkedin.com/in/julio-machado-machadoking/)).
 
 Minha experiência se concentra principalmente no desenvolvimento de soluções de software eficientes, com foco em aplicações web centradas no usuário. Tenho um histórico sólido de projetos que priorizam alto desempenho e escalabilidade.
 
