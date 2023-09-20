@@ -1,6 +1,5 @@
 # Olá Mundo! Sou Júlio Machado (MACHADOKING)
 
-# Sobre Mim
 Sou um Desenvolvedor especializado em Java para Backend com ampla experiência em desenvolvimento JavaScript para Front-End também. Atualmente, estou cursando Bacharelado em Engenharia de Software na Universidade Unicesumar e continuo aprimorando minhas habilidades por meio de cursos profissionalizantes (confira minhas certificações em meu [perfil](https://github.com/MACHADOKING)).
 
 Minha experiência se concentra principalmente no desenvolvimento de soluções de software eficientes, com foco em aplicações web centradas no usuário. Tenho um histórico sólido de projetos que priorizam alto desempenho e escalabilidade.
@@ -51,9 +50,6 @@ Mantenho um perfil no GitHub com projetos que criei durante minha jornada de apr
 
 ## Contato
 Se você procura um Desenvolvedor com expertise em Java para Backend e/ou JavaScript, apaixonado por criar soluções eficientes e centradas no usuário, estou disponível para colaborar em projetos desafiadores e interessantes. Fique à vontade para entrar em contato para saber mais sobre mim e meu trabalho. 📩
-
-
-## Habilidades
 
 <div style="display: inline_block;height: 100%;"><br>
   <img align="center" alt="Julio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
